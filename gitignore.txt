@@ -1,0 +1,48 @@
+__pycache__/
+*.py[cod]
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Editor / IDE
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python tooling
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Data / Datasets
+ISL_Dataset/
+*.csv
+
+# Notebook / ML outputs
+*.log
+*.tmp
+*.out
+*.ckpt
+*.h5
+*.keras
+*.pkl
+*.joblib
+*.sav
+runs/
+logs/
+
+# Misc
+.output.txt
